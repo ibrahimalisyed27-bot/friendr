@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # FriendMatch Backend
 
 A Django REST Framework backend for a college friend-matching MVP web app ("Tinder for Friends").
@@ -247,3 +245,4 @@ This backend is designed to work with a React frontend. The API provides:
 ## Support
 
 For issues and questions, please check the Django documentation and Django REST Framework documentation.
+
